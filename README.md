@@ -1,4 +1,4 @@
-Android Things empty project template
+Android Things project template
 =====================================
 
 Use this empty project as a template for your Android Things project.
